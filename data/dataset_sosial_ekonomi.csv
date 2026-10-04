@@ -1,0 +1,39 @@
+﻿Provinsi,IPM_2025,PDRB_per_Kapita_HB_2025_ribu_Rp,Kemiskinan_September_2025_persen,Penduduk_Miskin_September_2025_ribu,TPT_Agustus_2025_persen,TPAK_Agustus_2025_persen,TPK_Hotel_Berbintang_2025_persen,TPK_Hotel_Nonbintang_2025_persen,Kode_Provinsi,Pulau_Wilayah,PDRB_Total_ADHK_2025_miliar_Rp,Hierarki_Level_1,Hierarki_Level_2,Hierarki_Level_3
+Aceh,76.23,45770,12.22,703.33,5.64,65.32,25,18,11,Sumatera,158340.39,Indonesia,Sumatera,Aceh
+Sumatera Utara,76.47,78310,7.24,1128.06,5.32,72.29,41,24,12,Sumatera,661204.18,Indonesia,Sumatera,Sumatera Utara
+Sumatera Barat,77.27,59549,5.31,312.3,5.62,71.34,43,16,13,Sumatera,206137.88,Indonesia,Sumatera,Sumatera Barat
+Riau,76.31,176385,6.3,475.57,4.16,66.55,45,26,14,Sumatera,598610.45,Indonesia,Sumatera,Riau
+Jambi,75.13,92786,6.89,261.25,4.26,68.37,49,20,15,Sumatera,185582.21,Indonesia,Sumatera,Jambi
+Sumatera Selatan,74.76,80663,9.85,898.24,3.69,69.88,47,22,16,Sumatera,399385.81,Indonesia,Sumatera,Sumatera Selatan
+Bengkulu,75.68,52305,11.88,250.19,3.41,71.78,43,18,17,Sumatera,57066.81,Indonesia,Sumatera,Bengkulu
+Lampung,73.98,55009,9.66,860.13,4.21,70.44,43,24,18,Sumatera,296420.65,Indonesia,Sumatera,Lampung
+Kepulauan Bangka Belitung,75.26,75323,4.77,74.65,4.45,69.38,26,15,19,Sumatera,63291.17,Indonesia,Sumatera,Kepulauan Bangka Belitung
+Kepulauan Riau,80.53,172459,4.26,114.55,6.45,68.23,48,32,21,Sumatera,224504.72,Indonesia,Sumatera,Kepulauan Riau
+DKI Jakarta,85.05,367687,4.03,439.12,6.05,64.75,53,42,31,Jawa,2263237.04,Indonesia,Jawa,DKI Jakarta
+Jawa Barat,75.9,59865,6.78,3550.71,6.77,66.99,47,23,32,Jawa,1845316.74,Indonesia,Jawa,Jawa Barat
+Jawa Tengah,74.77,50824,9.39,3344.82,4.66,74.36,44,23,33,Jawa,1219148.6,Indonesia,Jawa,Jawa Tengah
+DI Yogyakarta,82.48,55039,10.08,422.79,3.46,74.74,52,23,34,Jawa,131435.94,Indonesia,Jawa,DI Yogyakarta
+Jawa Timur,76.13,80856,9.3,3804.29,3.88,73.98,49,22,35,Jawa,2038961.63,Indonesia,Jawa,Jawa Timur
+Banten,77.25,74673,5.51,760.85,6.69,64.66,50,25,36,Jawa,560270.87,Indonesia,Jawa,Banten
+Bali,79.37,72658,3.42,160.09,1.49,77.31,61,43,51,Bali & Nusa Tenggara,177992.95,Indonesia,Bali & Nusa Tenggara,Bali
+Nusa Tenggara Barat,73.97,33667,11.38,637.18,3.06,76.11,40,30,52,Bali & Nusa Tenggara,112939.04,Indonesia,Bali & Nusa Tenggara,Nusa Tenggara Barat
+Nusa Tenggara Timur,69.89,25837,17.5,1031.69,3.31,75.55,42,16,53,Bali & Nusa Tenggara,82176.5,Indonesia,Bali & Nusa Tenggara,Nusa Tenggara Timur
+Kalimantan Barat,72.09,56984,5.97,322.54,4.82,70.9,50,29,61,Kalimantan,171330.68,Indonesia,Kalimantan,Kalimantan Barat
+Kalimantan Tengah,74.86,84730,4.94,141.75,3.97,68.4,48,22,62,Kalimantan,124378.81,Indonesia,Kalimantan,Kalimantan Tengah
+Kalimantan Selatan,76.1,70577,3.73,168.81,4.16,69.93,53,23,63,Kalimantan,164958.31,Indonesia,Kalimantan,Kalimantan Selatan
+Kalimantan Timur,79.39,208331,5.19,202.04,5.18,66.58,53,25,64,Kalimantan,596660.64,Indonesia,Kalimantan,Kalimantan Timur
+Kalimantan Utara,74.04,208210,5.47,42.45,3.85,69.55,46,26,65,Kalimantan,76468.89,Indonesia,Kalimantan,Kalimantan Utara
+Sulawesi Utara,76.32,75235,6.62,172.13,5.99,67.21,44,25,71,Sulawesi,113659.43,Indonesia,Sulawesi,Sulawesi Utara
+Sulawesi Tengah,72.82,131643,10.52,345.38,2.92,72.4,48,17,72,Sulawesi,230265.22,Indonesia,Sulawesi,Sulawesi Tengah
+Sulawesi Selatan,75.92,78748,7.43,685.14,4.21,67.65,45,18,73,Sulawesi,417633.94,Indonesia,Sulawesi,Sulawesi Selatan
+Sulawesi Tenggara,74.25,72031,10.14,295.31,3.31,71.67,34,17,74,Sulawesi,120590.21,Indonesia,Sulawesi,Sulawesi Tenggara
+Gorontalo,72.62,47477,12.62,155.76,3.42,69.29,38,15,75,Sulawesi,34834.47,Indonesia,Sulawesi,Gorontalo
+Sulawesi Barat,71.16,46654,10.18,149.88,2.86,74.25,26,20,76,Sulawesi,39075.71,Indonesia,Sulawesi,Sulawesi Barat
+Maluku,74.09,33652,15.25,286.86,6.27,66.66,33,16,81,Maluku,38906.05,Indonesia,Maluku,Maluku
+Maluku Utara,72.52,97262,5.59,74.81,4.55,69.57,43,19,82,Maluku,74790.27,Indonesia,Maluku,Maluku Utara
+Papua Barat,68.48,139213,19.58,102.4,4.55,69.55,31,16,91,Papua,52683.39,Indonesia,Papua,Papua Barat
+Papua Barat Daya,70.55,61624,17.5,102.41,6.85,68.1,45,14,92,Papua,25875.24,Indonesia,Papua,Papua Barat Daya
+Papua,74.69,84305,17.82,160.25,6.96,63.98,41,22,93,Papua,53634.65,Indonesia,Papua,Papua
+Papua Selatan,69.54,64928,19.26,103.92,4.04,67.37,53,20,94,Papua,19706.76,Indonesia,Papua,Papua Selatan
+Papua Tengah,60.64,107566,29.45,309.86,3.62,73.89,38,27,95,Papua,82475.32,Indonesia,Papua,Papua Tengah
+Papua Pegunungan,54.91,19111,27.21,308.19,1.68,90.66,29,14,96,Papua,14315.57,Indonesia,Papua,Papua Pegunungan
