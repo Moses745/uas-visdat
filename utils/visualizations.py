@@ -112,18 +112,21 @@ def plot_choropleth_map(df, geojson_data, indicator_col, selected_pulau="Semua W
     
     df_plot = df.copy()
 
-    custom_data = [
-        'Provinsi',
-        'Pulau_Wilayah',
-        indicator_col,
-        'IPM_2025',
-        'Kemiskinan_September_2025_persen',
-        'PDRB_per_Kapita_HB_2025_ribu_Rp',
-        'TPT_Agustus_2025_persen'
-    ]
-
-	# Pastikan nama kolom unik sebelum diproses Plotly/Narwhals
+    # Pastikan nama kolom DataFrame unik
     df_plot = df_plot.loc[:, ~df_plot.columns.duplicated()].copy()
+
+    # Alias indikator terpilih untuk mencegah duplicate
+    df_plot['_selected_indicator'] = df_plot[indicator_col]
+
+    custom_data = [
+    	'Provinsi',
+   	'Pulau_Wilayah',
+    	'_selected_indicator',
+    	'IPM_2025',
+    	'Kemiskinan_September_2025_persen',
+    	'PDRB_per_Kapita_HB_2025_ribu_Rp',
+    	'TPT_Agustus_2025_persen'
+    ]
 
     try:
         fig = px.choropleth_map(
